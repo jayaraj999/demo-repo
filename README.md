@@ -1,2 +1,2 @@
-#Demo of Git 
+# Demo of Git 
 This is my first project.
